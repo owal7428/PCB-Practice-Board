@@ -1,14 +1,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB1.PcbDoc   1/19/2025  4:31:59 PM
+NCDrill File Report For: PCB1.PcbDoc   1/22/2025  4:38:34 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
 ASCII RoundHoles File : PCB1-RoundHoles.TXT
 ASCII SlotHoles File : PCB1-SlotHoles.TXT
+EIA File   : PCB1.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      13mil (0.33mm)                                            Round             13        PTH        8.31inch (211.18mm)
+T1      13mil (0.33mm)                                            Round             13        PTH        7.05inch (179.20mm)
 T2      39mil (1mm)                                               Slot              1         PTH        0.06inch (1.50mm)
 T3      40mil (1.016mm)                                           Round             12        PTH        3.72inch (94.45mm)
 T4      40mil (1.02mm)                                            Round             4         PTH        0.79inch (20.18mm)
